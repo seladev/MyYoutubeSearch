@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YouTubeSearch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Click on Search icon to search video</string>
+    <string name="user_name_hint">Type your user name</string>
+    <string name="password_hint">Type here your password</string>
+    <string name="admin">Admin</string>
+    <string name="login_title">"Welcome to Youtube search app\n please login "</string>
+    <string name="login">Login</string>
+    <string name="statistics">Statistics</string>
+    <string name="no_statistics">No Statistics Yet</string>
+</resources>
